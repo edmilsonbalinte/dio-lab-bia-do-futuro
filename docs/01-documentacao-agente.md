@@ -212,12 +212,12 @@ Se houver dúvida, o sistema não improvisa:
 
 ### Limitações Declaradas
 > O que o agente NÃO faz?
+
 | O LLM NÃO FAZ | O LLM FAZ |
 | :--- | :--- |
 | Não calcula valores | Recebe fatos já validados |
 | Não interpreta números brutos | Explica dados em linguagem humana |
 | Não acessa extrato completo | Garante a fluidez da conversa |
 | Não cria recomendações novas | Mantém o tom de voz da marca |
----
 
 >  **Impacto:** Isso elimina 70% do risco de alucinação.
